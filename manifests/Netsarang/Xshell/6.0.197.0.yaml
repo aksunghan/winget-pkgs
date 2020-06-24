@@ -14,3 +14,4 @@ Installers:
     InstallerType: EXE
     Url: https://cdn.netsarang.net/b8d30f06/Xshell-6.0.0197p.exe
     Sha256: 6765ADE291484A4301B7DAFF9E05774756337BB096FD601DE7564F232BA49C2D
+    Switches:
