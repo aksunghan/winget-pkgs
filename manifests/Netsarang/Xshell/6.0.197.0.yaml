@@ -1,0 +1,16 @@
+Id: netsarang.xshell
+Publisher: Netsarang
+Name: Xshell
+Version: 6.0.197.0
+License: Copyright (c) 2020 NetSarang Computer Inc. All rights reserved.
+InstallerType: EXE
+LicenseUrl: https://www.netsarang.com/docs/ver6_free_eula.pdf
+AppMoniker: xshell
+Tags: ssh, terminal emulator
+Description: Xshell is a powerful feature-rich SSH Client that excels in multi-session management.
+Homepage: https://www.netsarang.com/xshell/
+Installers:
+  - Arch: x86
+    InstallerType: EXE
+    Url: https://cdn.netsarang.net/b8d30f06/Xshell-6.0.0197p.exe
+    Sha256: 6765ADE291484A4301B7DAFF9E05774756337BB096FD601DE7564F232BA49C2D
